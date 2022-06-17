@@ -16,12 +16,12 @@
 问题源码包位置~/statsmodels/stats/diagnostic.py Line 999, 这里会报错
 
 解决方案就是在OLS回归那一行中加上一个参数就好了 hasconst=True
-'''python
+```python
 resols = OLS(y ** 2, exog).fit()
-'''
+```
 
 改成 
 
-'''python 
+```python 
 resols = OLS(y ** 2, exog, hasconst=True).fit()
-'''
+```
