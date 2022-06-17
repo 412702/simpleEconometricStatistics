@@ -1,0 +1,10 @@
+,Fire_num_count,person_num_count,property_num_count
+building_violations_count,0.800,-0.263,0.097
+not_permit_num,-0.187,-0.222,-0.256
+Population_Total,0.235,-0.255,0.067
+Safty_Expect_Fee_per_1000,0.141,-0.200,-0.004
+Safty_Importance_Rank,0.136,-0.207,-0.101
+chicago_red_light_violations,0.268,-0.504,0.073
+speed_violations,-0.012,-0.484,-0.131
+school_num,0.923,-0.543,0.014
+buildings_num,0.320,-0.465,0.005
